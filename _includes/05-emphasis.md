@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**I always try my best to help others**
+_It makes my day when I can be helpful and/or supportive_
+
+_I **love** people_
